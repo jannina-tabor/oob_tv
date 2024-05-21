@@ -22,7 +22,14 @@
 # Implement 'volumeDown()' to decrease the 'volumeLevel' by 1
 
 
+class TV:
+    def __init__(self):
+        self.channel = 1
+        self.volumeLevel = 1
+        self.on = False
 
+
+    
 
 
 

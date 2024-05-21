@@ -35,7 +35,11 @@ class TV:
     def turnOff(self):
         self.on = False
     
+    def getChannel(self): 
+        return self.channel
     
+    
+
 
 
 

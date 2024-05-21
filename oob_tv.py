@@ -58,7 +58,7 @@ class TV:
     
     def volumeUp(self):
         if self.on and self.volumeLevel < 7:
-            self.channel += 1
+            self.volumeLevel += 1
 
     def volumeDown(self):
         if self.on and self.volumeLevel > 1:

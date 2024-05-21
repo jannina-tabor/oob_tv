@@ -29,7 +29,8 @@ class TV:
         self.on = False
 
 
-    
+    def turnOn(self):
+        self.on = True
 
 
 

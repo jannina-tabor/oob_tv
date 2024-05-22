@@ -12,6 +12,7 @@
 # Set 'tv1's volume to 2
 # Print 'tv1's channel and volume level
 # Print 'tv2's channel and volume level
+# Call 'TestTv' function to execute the script
 
 from TV import TV 
 

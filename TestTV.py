@@ -13,8 +13,9 @@
 # Print 'tv1's channel and volume level
 # Print 'tv2's channel and volume level
 
+from TV import TV 
+
 def TestTV():
     tv1 = TV()
     tv1.turnOn()
     tv1.setChannel(30)
-    

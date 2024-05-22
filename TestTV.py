@@ -27,3 +27,4 @@ def TestTV():
     tv2.setVolume(2)
 
     print(f"tv1's channel is {tv1.setChannel()} and volume leve is {tv1.setVolume()}")
+    print(f"tv2's channel is {tv2.setChannel()} and volume leve is {tv2.setVolume()}")

@@ -15,4 +15,5 @@
 
 def TestTV():
     tv1 = TV()
+    tv1.turnOn()
     

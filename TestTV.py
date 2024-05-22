@@ -21,3 +21,8 @@ def TestTV():
     tv1.setChannel(30)
     tv1.setVolume(3)
 
+    tv2 = TV()
+    tv2.turnOn()
+    tv2.setChannel(3)
+    tv2.setVolume(2)
+

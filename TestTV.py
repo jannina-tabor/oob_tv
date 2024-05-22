@@ -12,3 +12,7 @@
 # Set 'tv1's volume to 2
 # Print 'tv1's channel and volume level
 # Print 'tv2's channel and volume level
+
+def TestTV():
+    tv1 = TV()
+    

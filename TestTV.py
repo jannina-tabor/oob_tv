@@ -16,4 +16,5 @@
 def TestTV():
     tv1 = TV()
     tv1.turnOn()
+    tv1.setChannel(30)
     
